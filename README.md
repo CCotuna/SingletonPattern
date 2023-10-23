@@ -7,7 +7,7 @@ E folosit atunci cand se doreste ca un obiect sa fie o singura data instantiat, 
 Poate fi comparat cu o variabila globala.
 E folosit in cazurile in care ai un set redus de informatii care trebuie distribute in aplicatie si nu se doreste a crea mai multe clase care sa salveze informatiile.
 Singleton poate fi folosit atunci cand lucram cu conexiuni la baze de date.
-Este folosit pentru a nu permite crearea unui obiect decat o singura data. Atunci cand toti clientii trebuie sa foloseasca o singura instanta a unei clase.
+Este folosit pentru a nu permite crearea unui obiect decat o singura data. Folosit atunci cand toti clientii trebuie sa foloseasca o singura instanta a unei clase.
 
 Pro:
 - nu trebuie sa creezi mai multe obiecte, respectiv clase
